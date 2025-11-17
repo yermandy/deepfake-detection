@@ -1,4 +1,4 @@
-# ❗ Updated version of this work accepted to WACV 2026 ❗
+# ❗ Updated WACV 2026 paper announcement ❗
 
 We are excited to announce that our [new paper](https://arxiv.org/abs/2508.06248) has been accepted to WACV 2026! The updated version includes additional experiments, models, and insights. Check out the latest version on [GitHub](https://github.com/yermandy/GenD).
 
