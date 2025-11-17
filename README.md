@@ -1,4 +1,10 @@
-# Unlocking the Hidden Potential of CLIP in Generalizable Deepfake Detection
+# ❗ Updated version of this work accepted to WACV 2026 ❗
+
+We are excited to announce that our [new paper](https://arxiv.org/abs/2508.06248) has been accepted to WACV 2026! The updated version includes additional experiments, models, and insights. Check out the latest version on [GitHub](https://github.com/yermandy/GenD).
+
+---
+
+## Unlocking the Hidden Potential of CLIP in Generalizable Deepfake Detection
 
 [![arXiv Badge](https://img.shields.io/badge/arXiv-B31B1B?logo=arxiv&logoColor=FFF)](https://arxiv.org/abs/2503.19683)
 [![Hugging Face Badge](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](https://huggingface.co/yermandy/deepfake-detection)
